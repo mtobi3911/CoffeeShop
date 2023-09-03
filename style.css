@@ -235,6 +235,7 @@ button {
     background-color: #121315;
     text-align: center;
     text-transform: uppercase;
+    transition: .4s;
 }
 .popular__img {
     display: block;
@@ -288,6 +289,7 @@ button {
 }
 .popular:hover .popular__btn {
     display: flex;
+    transition: .4s;
 }
 .popular__link {
     display: block;
